@@ -6,7 +6,7 @@
 
 Features:
   - Thread-safe
-  - Optionnal callback for file logging / in-app etc
+  - Optional callback for file logging / in-app etc
   - Severity prefix and date suffix
   - Severity filter
   - Logs to VS Output Window also
