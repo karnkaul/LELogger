@@ -11,6 +11,7 @@
 #include <string>
 #include <time.h>
 #include <thread>
+#include <unordered_map>
 #include "Logger.h"
 #if _MSC_VER
 #include "Windows.h"
