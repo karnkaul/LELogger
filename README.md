@@ -15,3 +15,6 @@ Usage:
   - Define `DEBUG_LOGGING 1` to enable `LOG_D`
   - Include this file and call `LOG_X(message, format)` where `X = { E, W, I }` for Error, Warning, Info
   - Set `g_MinLogSeverity` to set the minimum severity threshold
+
+Compile Units:
+  - Logger.cpp
