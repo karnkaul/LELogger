@@ -16,5 +16,8 @@ Usage:
   - Include this file and call `LOG_X(message, format)` where `X = { E, W, I }` for Error, Warning, Info
   - Set `g_MinLogSeverity` to set the minimum severity threshold
 
+CMake:
+  - Set `SOURCES` to existing source file list and include `Logger.cmake` before creating the target
+
 Compile Units:
   - Logger.cpp
